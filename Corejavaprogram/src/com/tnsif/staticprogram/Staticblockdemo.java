@@ -1,4 +1,5 @@
 package com.tnsif.staticprogram;
+
 // to demostarte static block
 
 public class Staticblockdemo {
