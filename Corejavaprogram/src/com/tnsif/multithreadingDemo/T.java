@@ -7,6 +7,6 @@ Example e;
 //	this.e=e;
 //}
 public void run() {
-	e.display();
+	Example.display();
 }
 }
