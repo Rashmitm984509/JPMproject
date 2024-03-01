@@ -1,5 +1,5 @@
 package com.tnsif.stringdemo;
-
+// to demostarte equals 
 public class EqualsDemo {
 public static void main(String[] args) {
 	String s1="sachin";

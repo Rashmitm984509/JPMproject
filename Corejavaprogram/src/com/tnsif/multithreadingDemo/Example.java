@@ -2,7 +2,7 @@ package com.tnsif.multithreadingDemo;
 // to demostarte synchronization
 
 public class Example {
-	
+	// using static keyword
  synchronized static void display() {
 	
 	Thread g=Thread.currentThread();
