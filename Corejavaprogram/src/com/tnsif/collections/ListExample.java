@@ -24,7 +24,5 @@ public static void main(String[] args) {
 	s2.remove(2);
 	System.out.println(s2);
 	
-
-	
 }
 }
